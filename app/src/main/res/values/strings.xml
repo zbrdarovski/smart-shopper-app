@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">The Smart Shopper</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_password_repeat">Repeat password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_reset">Reset password</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">Welcome %1$s!</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password should be minimum 8 characters long,
+                                    should contain at least one capital letter,
+                                    at least one small letter,
+                                    at least one number and
+                                    at least one special character.</string>
+    <string name="invalid_password_repeat">Passwords doo not match.</string>
+    <string name="invalid_pw">Invalid password.</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="affirmative">yes</string>
+    <string name="negative">no</string>
+    <string name="delete_acc_confirmation">"Are you sure you want to delete your account?"</string>
+    <string name="logout">Log Out</string>
+    <string name="nearest_shops">Nearest shops:</string>
+    <string name="title_activity_article">ArticleActivity</string>
+    <string name="shops_and_articles">shops and articles</string>
+    <string name="shop_image">shop image</string>
+    <string name="shop_name">Shop name: </string>
+    <string name="shop_address">Shop address: </string>
+    <string name="shop_distance">Shop distance: </string>
+    <string name="shop_online">Online shop: </string>
+    <string name="articles_image">articles image</string>
+    <string name="article_name">Article name: </string>
+    <string name="article_price">Article price: </string>
+    <string name="article_discount">Article discount: </string>
+    <string name="nearest_shop">Nearest shop: %1$s</string>
+    <string name="cheapest_shop">Cheapest shop: %1$s</string>
+    <string name="cheapest_article">Cheapest article: %1$s</string>
+
+</resources>
