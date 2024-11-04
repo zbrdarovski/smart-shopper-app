@@ -1,15 +1,11 @@
-# TheSmartShopper
+# The Smart Shopper
 
-### Namen: 
-* Aplikacija prikazuje najbližje trgovine, najcenejše trgovine in najboljše izbore tedensko znižanih artiklov.
-* Podatki o trgovini in podatki o artiklih v trgovini.
+### Purpose: 
+* Displays closest shops, cheapest shops and top choice articles
+* Provides data about the shop and its articles.
+  
+### Technology:
+* Kotlin and geolocation
 
-
-### Avtor:
-* Zdravko Brdarovski
-
-### Tehnologije:
-* Aplikacija bo napisana v Kotlinu in bo uporabljala geografsko lokacijo.
-
-### Testirana na:
-* Samsung Galaxy A40 (telefon Android) in Pixel XL API 26 (emulator Android).
+### Tested on:
+* Samsung Galaxy A40 (Android smartphone) and Pixel XL API 26 (Android emulator).
